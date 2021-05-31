@@ -78,3 +78,8 @@ td.style3 {
 span.style5 {
 	color: white;
 }
+
+p.underline {
+text-decoration:underline; /* ========下線を引く======== */
+text-decoration-color: navy; /* ========下線の色======== */
+}
