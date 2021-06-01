@@ -79,9 +79,9 @@ span.style5 {
 	color: white;
 }
 
-h2#differentcolor {color: mediumblue;}
+h2#differentcolor {color:mediumblue;}
 
 p.underline {
 text-decoration:underline; /* ========下線を引く======== */
-text-decoration-color: mediumblue; /* ========下線の色======== */
+text-decoration-color:mediumblue; /* ========下線の色======== */
 }
